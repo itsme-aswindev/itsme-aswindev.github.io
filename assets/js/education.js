@@ -7,7 +7,7 @@ const moocscards = [
   {
     title: "AZ900 Microsoft Certified: Azure Fundamentals",
     cardImage: "assets/images/education-page/AZ-900.png",
-    moocLink: "https://www.coursera.org/account/accomplishments/specialization/YUDQGHA7SYEM",
+    moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/aswinved/D4182FB5CC669C54?sharingId=ACA43114315AFFBE",
   },
   {
     title: "AWS Fundamentals",
