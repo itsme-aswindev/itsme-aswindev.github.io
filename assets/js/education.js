@@ -5,6 +5,11 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Google Cybersecurity Professional Certificate",
+    cardImage: "assets/images/education-page/Cyber.png",
+    moocLink: "https://www.coursera.org/account/accomplishments/professional-cert/DL9DJJLH6C26",
+  },
+  {
     title: "AZ900 Microsoft Certified: Azure Fundamentals",
     cardImage: "assets/images/education-page/AZ-900.png",
     moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/aswinved/D4182FB5CC669C54?sharingId=ACA43114315AFFBE",
