@@ -5,6 +5,11 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "AZ900 Microsoft Certified: Azure Fundamentals",
+    cardImage: "assets/images/education-page/AZ-900.png",
+    moocLink: "https://www.coursera.org/account/accomplishments/specialization/YUDQGHA7SYEM",
+  },
+  {
     title: "AWS Fundamentals",
     cardImage: "assets/images/education-page/aws-1.png",
     moocLink: "https://www.coursera.org/account/accomplishments/specialization/YUDQGHA7SYEM",
