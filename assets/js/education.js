@@ -5,6 +5,16 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Google Cloud Certified Associate Cloud Engineer",
+    cardImage: "assets/images/education-page/GCP-A.png",
+    moocLink: "https://www.credly.com/badges/83a1583c-d92d-4293-a95c-413c71034868/public_url",
+  },
+  {
+    title: "Google Cloud Certified Professional Cloud Architect",
+    cardImage: "assets/images/education-page/GCP-P.png",
+    moocLink: "https://www.credly.com/badges/bb95aba3-b11c-4beb-8b11-eb4828820ada/public_url",
+  },
+  {
     title: "AZ500 Microsoft Certified: Azure Security Engineer",
     cardImage: "assets/images/education-page/AZ-500.png",
     moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/aswinved/68F99EB1DEE24202?sharingId=ACA43114315AFFBE",
