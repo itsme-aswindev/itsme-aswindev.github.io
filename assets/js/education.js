@@ -5,14 +5,24 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Google Cybersecurity Professional Certificate",
-    cardImage: "assets/images/education-page/Cyber.png",
-    moocLink: "https://www.coursera.org/account/accomplishments/professional-cert/DL9DJJLH6C26",
+    title: "AZ500 Microsoft Certified: Azure Security Engineer",
+    cardImage: "assets/images/education-page/AZ-500.png",
+    moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/aswinved/68F99EB1DEE24202?sharingId=ACA43114315AFFBE",
+  },
+  {
+    title: "AZ104 Microsoft Certified: Azure Administrator Associate",
+    cardImage: "assets/images/education-page/AZ-104.png",
+    moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/aswinved/87CA1EFFF2E183CC?sharingId=ACA43114315AFFBE",
   },
   {
     title: "AZ900 Microsoft Certified: Azure Fundamentals",
     cardImage: "assets/images/education-page/AZ-900.png",
     moocLink: "https://learn.microsoft.com/api/credentials/share/en-us/aswinved/D4182FB5CC669C54?sharingId=ACA43114315AFFBE",
+  },
+  {
+    title: "Google Cybersecurity Professional Certificate",
+    cardImage: "assets/images/education-page/Cyber.png",
+    moocLink: "https://www.coursera.org/account/accomplishments/professional-cert/DL9DJJLH6C26",
   },
   {
     title: "AWS Fundamentals",
