@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Associate",
+    title: "Cloud Engineer",
     cardImage: "assets/images/experience-page/capgemini.jpg",
     place: "Capgemini Technology India",
     time: "(May, 2022 - present)",
